@@ -13,3 +13,7 @@ github_username:  windpenguin
 
 # Build settings
 markdown: kramdown
+
+encoding: utf-8
+
+highlighter: pygments
